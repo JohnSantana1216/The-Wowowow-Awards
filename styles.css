@@ -1,0 +1,38 @@
+body {
+    background:black;
+}
+.food {
+    color:gold;
+font-family: 'Fredoka One', cursive;
+}
+.game  {
+    color:gold;
+font-family: 'Fredoka One', cursive;
+}
+.handles {
+    color:gold;
+font-family: 'Fredoka One', cursive;
+}
+.artist {
+    color:gold;
+font-family: 'Fredoka One', cursive;
+}
+p  {
+    color:red;
+font-family: 'Permanent Marker', cursive;
+}
+img {
+    width:500px;
+    height:300px;
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    border:double;
+}
+
+
+    
+
+
+  
