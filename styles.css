@@ -29,7 +29,8 @@ img {
     margin: 0 auto;
 }
 h1 {
-    border:double;
+    border:10px double;
+    padding:5px;
 }
 
 
